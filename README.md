@@ -1,2 +1,2 @@
 # Sim_GraphQL_Express_Srv
-A Simple Express GraphQL Server 
+A simple Express server using a GraphQL end-point to respond to queries.
