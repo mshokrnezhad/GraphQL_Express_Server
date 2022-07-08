@@ -1,3 +1,5 @@
+// copy this code to server.js and "npm start server.js"
+
 const express = require("express");
 const path = require("path");
 const { ApolloServer } = require("apollo-server-express");
